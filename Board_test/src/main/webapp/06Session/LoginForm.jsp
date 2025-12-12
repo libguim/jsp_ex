@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <html> 
-<head><title>Session</title></head>
+<head><title>Session</title></head> 
 <body>
 	<jsp:include page="../Common/Link.jsp" />
     <h2>로그인 페이지</h2>
